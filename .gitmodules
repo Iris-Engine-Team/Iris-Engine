@@ -1,0 +1,21 @@
+[submodule "IrisEngine/Externals/SPIRV-Reflect"]
+	path = IrisEngine/Externals/SPIRV-Reflect
+	url = https://github.com/KhronosGroup/SPIRV-Reflect.git
+[submodule "IrisEngine/Externals/assimp"]
+	path = IrisEngine/Externals/assimp
+	url = https://github.com/assimp/assimp.git
+[submodule "IrisEngine/Externals/stb"]
+	path = IrisEngine/Externals/stb
+	url = https://github.com/nothings/stb.git
+[submodule "IrisEngine/Externals/glfw"]
+	path = IrisEngine/Externals/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "IrisEngine/Externals/IrisEngine_Math"]
+	path = IrisEngine/Externals/IrisEngine_Math
+	url = https://github.com/Iris-Engine-Team/Iris-Engine-Math.git
+[submodule "IrisEngine/Externals/json"]
+	path = IrisEngine/Externals/json
+	url = https://github.com/nlohmann/json.git
+[submodule "IrisEngine/Externals/meta"]
+	path = IrisEngine/Externals/meta
+	url = https://github.com/skypjack/meta.git

@@ -19,6 +19,8 @@ namespace Iris
 
 		void GLFWWindow::SetApplicationIcon(const Texture* _iconTexture, std::filesystem::path _path)
 		{
+			static_cast<void>(_path);
+
 			_iconTexture;
 #ifdef _WIN32
 			HWND hwnd = glfwGetWin32Window(m_WindowContext);

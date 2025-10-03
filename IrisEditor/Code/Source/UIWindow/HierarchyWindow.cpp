@@ -360,6 +360,8 @@ namespace Iris
 
 		void HierarchyWindow::AddObjectDragDropSource(Engine::IrisObject* _object, std::string _dragdropName)
 		{
+			static_cast<void>(_dragdropName);
+
 			if (ImGui::BeginDragDropSource(ImGuiDragDropFlags_None))
 			{
 				// Set payload to carry the index of our item (could be anything)
@@ -373,6 +375,8 @@ namespace Iris
 		}
 		void HierarchyWindow::AddObjectDragDropTarget(Engine::IrisObject* _object, std::string _dragdropName)
 		{
+			static_cast<void>(_dragdropName);
+
 			Engine::ITransform* transform = _object->GetTransform();
 			if (ImGui::BeginDragDropTarget())
 			{
