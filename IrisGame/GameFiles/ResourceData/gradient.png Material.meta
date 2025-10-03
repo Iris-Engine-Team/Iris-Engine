@@ -1,0 +1,26 @@
+{
+    "Material Data": {
+        "DrawMode": 1,
+        "GLTF": false,
+        "Inputs": {
+            "Albedo Text": "gradient.png",
+            "Albedo Vec4": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Metallic": "gradient.png",
+            "Metallic Type": 0,
+            "Normal": "gradient.png",
+            "Roughness": "gradient.png",
+            "Roughness Type": 0
+        },
+        "IsLit": true,
+        "IsOpaque": true,
+        "Template": 0,
+        "Transparency": 0
+    },
+    "Name": "gradient.png Material",
+    "Type": 1
+}

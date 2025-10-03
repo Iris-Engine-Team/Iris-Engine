@@ -1,0 +1,26 @@
+{
+    "Material Data": {
+        "DrawMode": 1,
+        "GLTF": false,
+        "Inputs": {
+            "Albedo Text": "Material_0_baseColor.jpeg",
+            "Albedo Vec4": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Metallic": "DefaultTexture.jpg",
+            "Metallic Type": 0,
+            "Normal": "DefaultNormal.jpg",
+            "Roughness": "DefaultTexture.jpg",
+            "Roughness Type": 0
+        },
+        "IsLit": true,
+        "IsOpaque": true,
+        "Template": 0,
+        "Transparency": 0
+    },
+    "Name": "ShivaMat",
+    "Type": 1
+}

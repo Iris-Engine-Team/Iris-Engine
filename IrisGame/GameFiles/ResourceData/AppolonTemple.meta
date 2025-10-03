@@ -1,0 +1,26 @@
+{
+    "Material Data": {
+        "DrawMode": 1,
+        "GLTF": true,
+        "Inputs": {
+            "Albedo Text": "map.png",
+            "Albedo Vec4": [
+                0.3999999761581421,
+                0.3999999761581421,
+                0.3999999761581421,
+                1.0
+            ],
+            "Metallic": 0.0,
+            "Metallic Type": 1,
+            "Normal": "normal.png",
+            "Roughness": 1.0,
+            "Roughness Type": 1
+        },
+        "IsLit": true,
+        "IsOpaque": true,
+        "Template": 0,
+        "Transparency": 0
+    },
+    "Name": "AppolonTemple",
+    "Type": 1
+}

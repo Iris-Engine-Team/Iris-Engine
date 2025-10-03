@@ -1,0 +1,26 @@
+{
+    "Material Data": {
+        "DrawMode": 3,
+        "GLTF": true,
+        "Inputs": {
+            "Albedo Text": "Default_albedo.jpg",
+            "Albedo Vec4": [
+                1.0,
+                1.0,
+                1.0,
+                0.19607843458652496
+            ],
+            "Metallic": "DefaultTexture.jpg",
+            "Metallic Type": 0,
+            "Normal": "Default_normal.jpg",
+            "Roughness": "Default_metalRoughness.jpg",
+            "Roughness Type": 0
+        },
+        "IsLit": true,
+        "IsOpaque": false,
+        "Template": 0,
+        "Transparency": 1
+    },
+    "Name": "HelmetCamera",
+    "Type": 1
+}

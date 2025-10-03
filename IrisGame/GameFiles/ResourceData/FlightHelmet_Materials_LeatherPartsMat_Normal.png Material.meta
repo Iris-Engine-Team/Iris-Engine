@@ -1,0 +1,26 @@
+{
+    "Material Data": {
+        "DrawMode": 1,
+        "GLTF": true,
+        "Inputs": {
+            "Albedo Text": "FlightHelmet_Materials_LeatherPartsMat_BaseColor.png",
+            "Albedo Vec4": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Metallic": "FlightHelmet_Materials_LeatherPartsMat_OcclusionRoughMetal.png",
+            "Metallic Type": 0,
+            "Normal": "FlightHelmet_Materials_LeatherPartsMat_Normal.png",
+            "Roughness": "FlightHelmet_Materials_LeatherPartsMat_OcclusionRoughMetal.png",
+            "Roughness Type": 0
+        },
+        "IsLit": true,
+        "IsOpaque": true,
+        "Template": 0,
+        "Transparency": 0
+    },
+    "Name": "FlightHelmet_Materials_LeatherPartsMat_Normal.png Material",
+    "Type": 1
+}

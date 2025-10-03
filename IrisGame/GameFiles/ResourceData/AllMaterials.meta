@@ -1,0 +1,23 @@
+{
+    "Data": [
+        "Default Material",
+        "Default_normal.jpg Material",
+        "FlightHelmet_Materials_RubberWoodMat_Normal.png Material",
+        "FlightHelmet_Materials_GlassPlasticMat_Normal.png Material",
+        "FlightHelmet_Materials_MetalPartsMat_Normal.png Material",
+        "FlightHelmet_Materials_LeatherPartsMat_Normal.png Material",
+        "FlightHelmet_Materials_LensesMat_Normal.png Material",
+        "white.png Material",
+        "gradient.png Material",
+        "Transparent",
+        "AppolonTemple",
+        "FloorRock",
+        "HelmetCamera",
+        "TridentMat",
+        "ShivaMat",
+        "TestMat",
+        "Gold"
+    ],
+    "Name": "AllMaterials",
+    "Type": 1
+}

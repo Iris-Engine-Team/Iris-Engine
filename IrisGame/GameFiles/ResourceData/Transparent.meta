@@ -1,0 +1,26 @@
+{
+    "Material Data": {
+        "DrawMode": 1,
+        "GLTF": false,
+        "Inputs": {
+            "Albedo Text": "DefaultWhite.jpg",
+            "Albedo Vec4": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "Metallic": 0.0,
+            "Metallic Type": 1,
+            "Normal": "DefaultNormal.jpg",
+            "Roughness": 0.0,
+            "Roughness Type": 1
+        },
+        "IsLit": true,
+        "IsOpaque": false,
+        "Template": 0,
+        "Transparency": 1
+    },
+    "Name": "Transparent",
+    "Type": 1
+}

@@ -1,0 +1,6 @@
+#ifndef IRIS_RESOURCE_H
+#define IRIS_RESOURCE_H
+
+#define IDI_APP_ICON 101
+
+#endif // IRIS_RESOURCE_H

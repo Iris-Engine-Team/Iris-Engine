@@ -1,0 +1,3 @@
+#include "../Code/Include/Resources/IrisResource.h"
+
+IDI_APP_ICON ICON "../Assets/Textures/Test.ico"
