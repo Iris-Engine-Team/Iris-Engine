@@ -25,7 +25,7 @@ The project does not compile yet with visual studio solution.
 
 ![01](https://github.com/Iris-Engine-Team/Iris-Engine/blob/655803c0dfad381eeee5d8d1675f934fc68a4859/Screenshots/image.png)
 
-If the "Game" folder doesn't exist, create a new project by clicking on File -> New.
+If the " Game " folder doesn't exist, create a new project by clicking on File -> New.
 
 ## Controls:
 
