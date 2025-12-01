@@ -54,7 +54,7 @@ If the "Game" folder doesn't exist, create a new project by clicking on File -> 
 - [BRAUD Loïc](https://github.com/loicbraud95)
 - [FONTVERNE Antoine](https://github.com/Auzuras)
 - [GRAU Liam](https://github.com/Liam-Grau)
-- [POINTEAU Marius](https://github.com/MariusPointeau)
+- [POINTEAU Marius](https://mariuspointeau.github.io)
 
 ### Artist:
 - [DE CHARRY Côme](https://www.artstation.com/comdec)
